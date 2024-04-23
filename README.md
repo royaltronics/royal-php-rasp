@@ -21,7 +21,7 @@ Regardless of your PHP environment, royal-php-rasp provides an additional layer 
 
 ## Features
 
-- Intercept, block, and log malicious PHP functions.
+- Intercept, block, and log potentially malicious PHP functions.
 - Written for PHP 8.3, should work on all versions?
 - Robust command black-list by checking args.
 - File caller is hashed within each log entry.
