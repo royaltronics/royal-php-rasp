@@ -96,12 +96,11 @@ However, it is recommended not to connect directly to an SQL database in the raw
 
 ## Future updates & considerations
 
-Things I can add in the future:
+Things to add in the future:
 
 - UI (User Interface) (admin php script) that will allow you to change things like logging method.
-- It will allow you to add or remove (enable or disable) new methods to override without modifying the source code!
-- MariaDB (MySql) Database integration. The admin panel (mentioned above) will have a button to fetch logs, this button will automatically take the logs insert into the database and remove the log files. Then your logs can be viewed in seperate web servers if desired.
-- Any other functionality you request can be acheived!
+- It will allow you to add or remove (enable or disable) new methods to override without modifying the source code.
+- Database integration/Remote Database. The admin panel (mentioned above) will have a button to fetch logs, this button will automatically take the logs insert into the database and remove the log files. Then your logs can be viewed in seperate web servers if desired.
 
 
 ## Troubleshooting
