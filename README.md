@@ -19,6 +19,14 @@ Regardless of your PHP environment, royal-php-rasp provides an additional layer 
 - Build tools (make, gcc).
 - `phpize` (should come with PHP development tools).
 
+## Features
+
+- Intercept, block, and log malicious PHP functions.
+- Written for PHP 8.3, should work on all versions?
+- Robust command black-list by checking args.
+- File caller is hashed within each log entry.
+- Front end log viewer
+
 ## Building and Compiling
 
 1. Unzip the source code to a directory, e.g., `/path/to/my_rasp`.
