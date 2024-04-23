@@ -1,6 +1,6 @@
-# My_RASP PHP Extension
+# Royal RASP PHP Extension (Coming Soon)
 
-The My_RASP PHP extension enhances security by monitoring and logging potentially dangerous PHP function calls.
+The PHP RASP extension enhances security by monitoring and logging potentially dangerous PHP function calls.
 
 ## Compatibility
 
