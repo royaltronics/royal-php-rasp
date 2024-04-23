@@ -1,6 +1,6 @@
 # Royal RASP PHP Extension (Coming Soon)
 
-The PHP RASP extension enhances security by monitoring and logging potentially dangerous PHP function calls.
+The royal-php-rasp extension enhances security by monitoring and logging potentially dangerous PHP function calls.
 
 ## Compatibility
 
@@ -10,7 +10,7 @@ While we specifically mention PHP-FPM and Nginx due to their widespread use and 
 - CGI/FastCGI: A versatile and standard way to interface external applications with web servers, allowing PHP to be used on a variety of server types.
 - Command Line Interface (CLI): For running PHP scripts from the command line, useful for cron jobs and maintenance scripts.
 
-Regardless of your PHP environment, My_RASP provides an additional layer of security by monitoring and logging function calls that could potentially be exploited.
+Regardless of your PHP environment, royal-php-rasp provides an additional layer of security by monitoring and logging function calls that could potentially be exploited.
 
 ## Prerequisites
 
