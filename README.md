@@ -1,4 +1,4 @@
-# Royal RASP PHP Extension (Coming Soon)
+# Royal RASP PHP Extension
 
 The royal-php-rasp extension enhances security by monitoring and logging potentially dangerous PHP function calls.
 
